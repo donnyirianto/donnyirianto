@@ -3,7 +3,7 @@
 </p>
 # Tech stack
 ## languages
-![Go] (https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/Nodejs-green?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge) 
