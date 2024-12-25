@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/donnyirianto"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=donnyirianto&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
 </p>
+
 # Tech stack
 ## languages
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Nodejs](https://img.shields.io/badge/Nodejs-green?style=for-the-badge)
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge) 
-![php](https://img.shields.io/badge/PHP-a03cfd?style=for-the-badge)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Frameworks, Platforms and Libraries
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
