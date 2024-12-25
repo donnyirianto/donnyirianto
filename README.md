@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://github.com/donnyirianto"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=donnyirianto&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
-</p>
-
 # Tech stack
 ## Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -26,3 +22,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/donnyirianto"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=donnyirianto&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
+</p>
