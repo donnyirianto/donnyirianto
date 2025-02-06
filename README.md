@@ -19,8 +19,8 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donnyirianto&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donnyirianto&theme=dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donnyirianto&theme=dark)
-</p>
+## 📊 GitHub Stats
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donnyirianto&theme=dark) 
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donnyirianto&theme=dark&utcOffset=8) 
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donnyirianto&theme=dark)
+
