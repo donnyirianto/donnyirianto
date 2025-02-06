@@ -20,5 +20,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 <p align="center">
-<a href="https://github.com/donnyirianto"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=donnyirianto&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donnyirianto&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donnyirianto&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donnyirianto&theme=dark)
 </p>
