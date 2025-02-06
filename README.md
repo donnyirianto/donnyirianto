@@ -20,7 +20,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ## 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donnyirianto&theme=dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donnyirianto&theme=dark) 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donnyirianto&theme=dark&utcOffset=8) 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donnyirianto&theme=dark)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donnyirianto&theme=dark)
 
